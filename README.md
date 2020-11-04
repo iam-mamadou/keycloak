@@ -8,7 +8,7 @@
     ```
 * run keycloak + docker:
     ```
-    make up
+    make run 
     ```
 * view keycloak UI http://localhost:8080
 
